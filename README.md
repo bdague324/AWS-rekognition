@@ -19,11 +19,11 @@ Create an instance: Back-end_server (public) with type Ubuntu Server 18.04 LTS (
 
 **Inbound rule**:
 
-![Légende](inboundrule.PNG)
+![Légende](inboundrule.png)
 
 **Outbound rule**:
 
-![Légende](outboundrule.png)
+![Légende](outboundrule[1].png)
 
 ### launch the instance
 Same as in [AWS_Jumpbox_Setting]
