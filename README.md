@@ -98,6 +98,7 @@ git clone https://github.com/bdague324/AWS-rekognition.git
 Change the AWS credentials (access key id and secret access key) and pic_name in the reko.py code
 
 ## Step4 - Test picture on Rekognition API (reko.py) & Result .
+
 ### Tested picture
 
 ![Légende](Ariane.JPG)
