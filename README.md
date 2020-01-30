@@ -1,4 +1,4 @@
-# AWS-Rekognition-object
+# AWS -object rekognition
 
 **Objective**: Detect the object using an AWS Rekognition API in a setted distant machine
 
