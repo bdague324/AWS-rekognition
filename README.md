@@ -28,7 +28,7 @@
 ### launch the instance
 Same as in AWS_Jumpbox repository.
 
-## Step2-Configuration of the backend server
+## Step2 - Configuration of the backend server
 ### 1.Install Jupyter & open file in virtual machine
 * Check if python3 is installed
 ```
@@ -84,7 +84,7 @@ pip3 install ipykernel
 python3 -m ipykernel install --user --name=brieuc
 ```
 
-## Step3-Clone Github repository
+## Step3 - Clone Github repository
 
 ```
 sudo apt-get install git
@@ -97,11 +97,11 @@ git clone https://github.com/bdague324/AWS-rekognition.git
 
 Change the AWS credentials (access key id and secret access key) and pic_name in the reko.py code
 
-## Step4 Test picture on Rekognition API (reko.py) & Result .
+## Step4 - Test picture on Rekognition API (reko.py) & Result .
 ### Tested picture
 
 ![Légende](Ariane.JPG)
 
-### Result of the detection
+### Results of the detection in percentage
 
 ![Légende](Result.PNG)
