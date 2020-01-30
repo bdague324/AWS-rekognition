@@ -19,7 +19,7 @@ Create an instance: Back-end_server (public) with type Ubuntu Server 18.04 LTS (
 
 **Inbound rule**:
 
-![Légende](inboundrule.png)
+![Légende](inboundrule.PNG)
 
 **Outbound rule**:
 
